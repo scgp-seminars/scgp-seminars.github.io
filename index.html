@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Seminars at the Simons Center for Geometry and Physics. Upcoming talks, speakers, abstracts, times and locations.">
+  <meta name="theme-color" content="#173d67">
+  <title>SCGP Seminars</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <script src="schedule.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#schedule">Skip to schedule</a>
+  <header class="masthead">
+    <a class="brand" href="./" aria-label="SCGP Seminars home"><span class="monogram" aria-hidden="true">S</span><span>SCGP <span class="brand-light">Seminars</span></span></a>
+    <span class="masthead-note">Stony Brook, New York</span>
+  </header>
+  <main>
+    <div class="introduction">
+      <p class="eyebrow">Simons Center for Geometry and Physics</p>
+      <h1>A week of ideas.</h1>
+      <p class="intro-text">Talks, discussions, and seminars at the Center.</p>
+    </div>
+    <section aria-label="Seminar schedule">
+      <div class="toolbar">
+        <div class="periods" role="group" aria-label="Choose schedule period">
+          <button type="button" data-period="week" aria-pressed="true">This week</button>
+          <button type="button" data-period="next" aria-pressed="false">Next week</button>
+          <button type="button" data-period="upcoming" aria-pressed="false">All upcoming</button>
+        </div>
+        <span class="timezone">All times Eastern</span>
+      </div>
+      <div class="period-heading"><h2 id="period-title">Seminar schedule</h2><span id="event-count"></span></div>
+      <p id="freshness" class="notice" hidden></p>
+      <div id="schedule" tabindex="-1" aria-live="polite" aria-busy="true"><p class="empty">Loading the seminar schedule…</p></div>
+      <noscript><p class="notice">Enable JavaScript to view the schedule, or <a href="data/events.json">download the event data</a>.</p></noscript>
+    </section>
+  </main>
+  <footer>
+    <span>SCGP seminar schedule · Updated by the seminar bot</span>
+    <span id="updated">Checking for updates…</span>
+  </footer>
+</body>
+</html>
