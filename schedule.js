@@ -22,6 +22,18 @@ function timeNumber(value) {
   let hour = Number(m[1]); if (m[3]) hour = hour % 12 + (m[3].toUpperCase() === "PM" ? 12 : 0);
   return hour * 60 + Number(m[2] || 0);
 }
+function periodBounds(view, today) {
+  if (view === "previous") return ["0001-01-01", today];
+  if (view === "upcoming") return [today, "9999-12-31"];
+  const start = shift(monday(today), view === "next" ? 7 : 0);
+  return [start, shift(start, 7)];
+}
+function matchingEvents(items, view, today) {
+  const [start, end] = periodBounds(view, today);
+  return items.filter(e => e.date >= start && e.date < end).sort((a, b) =>
+    (view === "previous" ? b.date.localeCompare(a.date) : a.date.localeCompare(b.date)) ||
+    timeNumber(a.time) - timeNumber(b.time) || a.title.localeCompare(b.title));
+}
 function renderTalk(event) {
   const article = element("article", "", "talk");
   const meta = element("div", "", "talk-meta");
@@ -47,15 +59,17 @@ function renderTalk(event) {
 }
 function render() {
   const today = localDate();
-  const start = period === "upcoming" ? today : shift(monday(today), period === "next" ? 7 : 0);
-  const end = period === "upcoming" ? "9999-12-31" : shift(start, 7);
-  document.getElementById("period-title").textContent = period === "upcoming" ? "Upcoming seminars" : `${pretty(start, { month: "long", day: "numeric" })} – ${pretty(shift(end, -1), { month: "long", day: "numeric", year: "numeric" })}`;
+  const [start, end] = periodBounds(period, today);
+  document.getElementById("period-title").textContent = period === "previous" ? "Previous events" : period === "upcoming" ? "Upcoming seminars" : `${pretty(start, { month: "long", day: "numeric" })} – ${pretty(shift(end, -1), { month: "long", day: "numeric", year: "numeric" })}`;
   if (!loaded) return;
-  const matches = events.filter(e => e.date >= start && e.date < end).sort((a, b) => a.date.localeCompare(b.date) || timeNumber(a.time) - timeNumber(b.time) || a.title.localeCompare(b.title));
+  const matches = matchingEvents(events, period, today);
   document.getElementById("event-count").textContent = hasSnapshot ? `${matches.length} ${matches.length === 1 ? "seminar" : "seminars"}` : "Not yet synced";
   schedule.replaceChildren();
   if (!hasSnapshot) { schedule.append(element("p", "The schedule will appear after the first bot update.", "empty")); return; }
-  if (!matches.length) { schedule.append(element("p", `No seminars ${period === "upcoming" ? "currently listed for upcoming dates" : "scheduled for this week"}.`, "empty")); return; }
+  if (!matches.length) {
+    const message = period === "previous" ? "No previous events in the current schedule." : `No seminars ${period === "upcoming" ? "currently listed for upcoming dates" : "scheduled for this week"}.`;
+    schedule.append(element("p", message, "empty")); return;
+  }
   const groups = new Map();
   for (const event of matches) { if (!groups.has(event.date)) groups.set(event.date, []); groups.get(event.date).push(event); }
   for (const [date, dayEvents] of groups) {
@@ -64,6 +78,7 @@ function render() {
     const column = element("div", "", "date-column");
     column.append(element("span", pretty(date, { weekday: "long" }), "day-name"));
     const dateLabel = element("time", pretty(date, { month: "short", day: "numeric" }), "date-label"); dateLabel.dateTime = date; column.append(dateLabel);
+    if (period === "previous") column.append(element("span", date.slice(0, 4), "day-name"));
     if (date === today) column.append(element("span", "Today", "today"));
     const talks = element("div"); dayEvents.forEach(event => talks.append(renderTalk(event)));
     section.append(column, talks); schedule.append(section);
