@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-09-18T20:03:34.194233+00:00",
+  "updated_at": "2026-09-18T21:04:00.913665+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -269,12 +269,12 @@
       "link": ""
     },
     {
-      "title": "",
+      "title": "N=4 super Yang-Mills in AdS4 across coupling",
       "speaker": "Maria Nocchi",
       "affiliation": "SCGP",
       "time": "2:00 PM",
       "location": "SCGP Common Room",
-      "description": "",
+      "description": "Placing a quantum field theory in AdS offers a geometric way to tame the infrared while preserving spacetime symmetry, making it a useful laboratory for connecting gauge dynamics to flat-space scattering. I will consider N=4 super Yang-Mills theory on a fixed AdS4 background, with boundary conditions preserving 3d N=4 supersymmetry and the full SU(N) flavor symmetry. Starting from the microscopic theory, I will derive the tree-level four-point function of the boundary moment-map operators and use it as input for AdS unitarity to reconstruct the correlator at one loop. In the flat-space limit, AdS poles condense into the branch cuts of the four-dimensional gluon S-matrix, while at finite curvature AdS acts as an infrared regulator. The perturbative results also provide a starting point for following the theory across coupling. At weak coupling, the boundary theory is conformal but non-local. Its CFT data can be used as an anchor for a bootstrap toward strong coupling, where we expect the emergence of a local stress tensor, as suggested by the S-dual picture.",
       "date": "2026-10-01",
       "series": "Journal Club",
       "link": ""
