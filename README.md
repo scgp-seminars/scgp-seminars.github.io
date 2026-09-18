@@ -6,7 +6,7 @@ This repository contains only the static website and the public event snapshot i
 
 Enable GitHub Pages in **Settings → Pages → Deploy from a branch → main → / (root)**. Every update to `main` then deploys automatically. No build step or API key is required for visitors.
 
-The page uses New York time, supports this week / next week / upcoming dates / previous events, and displays when the bot last synchronized. Previous events includes dates before today in New York, with the most recent day first and talks within each day ordered by time. Today's talks remain in the current/upcoming views. This view uses past records in the latest bot snapshot; it is not a separate permanent archive of removed events. The **YITP Google Calendar** button opens the public YITP calendar that is also imported by the bot. Times and abstracts are presented as provided by the bot. Empty titles and abstracts stay blank.
+The page uses New York time, supports this week / next week / upcoming dates / previous events, and displays when the bot last synchronized. Previous events includes dates before today in New York, with the most recent day first and talks within each day ordered by time. Today's talks remain in the current/upcoming views. This view uses past records in the latest bot snapshot; it is not a separate permanent archive of removed events. After the bot creates its public calendar, the **SCGP Google Calendar** button links to that calendar. Times and abstracts are presented as provided by the bot. Empty titles and abstracts stay blank.
 
 Run the date-filtering regression tests with `node --test test_schedule.cjs`.
 

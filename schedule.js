@@ -91,6 +91,12 @@ async function load() {
     if (!response.ok) throw new Error("Schedule unavailable");
     const data = await response.json();
     if (data.schema_version !== 1 || !Array.isArray(data.events)) throw new Error("Invalid schedule");
+    const calendarLink = document.getElementById("calendar-link");
+    const calendarUrl = webLink(data.calendar_url);
+    if (calendarLink && calendarUrl && new URL(calendarUrl).hostname === "calendar.google.com") {
+      calendarLink.href = calendarUrl;
+      calendarLink.hidden = false;
+    }
     events = data.events.filter(e => e && /^\d{4}-\d{2}-\d{2}$/.test(e.date) && !isNaN(dateValue(e.date)) && ["title", "speaker", "affiliation", "description", "time", "location", "series", "link"].every(k => typeof e[k] === "string"));
     const updated = new Date(data.updated_at);
     const validUpdate = data.updated_at && !isNaN(updated);
