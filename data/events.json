@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-09-18T14:54:18.453000+00:00",
+  "updated_at": "2026-09-18T15:03:53.591083+00:00",
   "events": [
     {
       "title": "",
@@ -136,6 +136,17 @@
       "link": ""
     },
     {
+      "title": "The 5th C.N. Yang Colloquium by Dr. Sheldon Glashow (Nobel Laureate in Physics 1979)",
+      "speaker": "",
+      "affiliation": "",
+      "time": "3:15 PM",
+      "location": "Simons Center for Geometry and Physics, State University of New York, Stony Brook, NY 11794, USA",
+      "description": "The 5th C.N. Yang Colloquium will be held on September 15, 2026.\nThe colloquium will be given by Dr. Sheldon Glashow who shared the 1979 Nobel Prize in Physics for his contribution to the theory of the unified weak and electromagnetic interaction.  The title of his talk is, \"My Memories of Frank Yang\".  \n\nThis colloquium is even more special as we commemorate Prof. CN \"Frank\" Yang who passed away last year and Yang–Mills theory provided the gauge-theory framework for the Standard Model, whose development began with Dr. Glashow’s groundbreaking 1961 paper on electroweak unification.\n\nCoffee/Tea: 3:15pm, Simons Center Lobby\nLecture: 3:45pm, Della Pietra Family Auditorium, SCGP Room 103.",
+      "date": "2026-09-15",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "Optimizing ice cubes",
       "speaker": "Israel Klich",
       "affiliation": "University  of Virginia",
@@ -155,6 +166,28 @@
       "description": "We will start by reviewing the program of carving out the space of large N theories by bootstrapping the scattering of pions. Using analyticity, unitarity and Regge boundedness of the 2->2 pion amplitude, one can derive two-sided bounds on the EFT couplings and identify the allowed regions in the space of theories. One limitation of this system is that the bootstrap is oblivious to the short-distance dynamics of QCD, where perturbation theory applies. A canonical way to include this UV information is to probe the theory with local gauge-invariant operators, whose high-energy behavior is controlled by asymptotic freedom. We will consider a mixed system of the vector-current two-point function, the pion vector form factor, and the pion scattering amplitude. Rigorous bounds can be derived on low-energy coefficients of the form factor, and by inputting perturbative results through the two-point function, one can also obtain bounds on various couplings that are more phenomenological in nature. We will see at the end how the UV input shrinks the space of allowed theories towards where Large N QCD is expected to sit. Based on arXiv:2606.19420.",
       "date": "2026-09-17",
       "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "Advanced Graduate Theory Seminar-Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "1:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-09-18",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Group Meeting-Shihab Fadda",
+      "speaker": "",
+      "affiliation": "",
+      "time": "12:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-09-21",
+      "series": "YITP Calendar",
       "link": ""
     },
     {
@@ -246,6 +279,17 @@
       "link": ""
     },
     {
+      "title": "YITP Seminar Speaker: Peter Denton (Brookhaven)",
+      "speaker": "",
+      "affiliation": "",
+      "time": "3:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-07",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "",
       "speaker": "",
       "affiliation": "",
@@ -312,6 +356,17 @@
       "link": ""
     },
     {
+      "title": "YITP Seminar Speaker: Xucheng Gan (DESY)",
+      "speaker": "",
+      "affiliation": "",
+      "time": "3:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-21",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "",
       "speaker": "",
       "affiliation": "",
@@ -345,6 +400,17 @@
       "link": ""
     },
     {
+      "title": "YITP Seminar Speaker: Amartya Sengupta (Buffalo)",
+      "speaker": "",
+      "affiliation": "",
+      "time": "3:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-28",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "",
       "speaker": "Matteo Delladio",
       "affiliation": "ETH",
@@ -375,6 +441,17 @@
       "description": "",
       "date": "2026-11-04",
       "series": "Wednesday Seminar",
+      "link": ""
+    },
+    {
+      "title": "YITP Seminar Speaker: Tanner Trickle (Illinois)",
+      "speaker": "",
+      "affiliation": "",
+      "time": "3:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-04",
+      "series": "YITP Calendar",
       "link": ""
     },
     {
@@ -433,6 +510,17 @@
       "link": ""
     },
     {
+      "title": "YITP Seminar Speaker-Itamar Allali (University of Notre Dame)",
+      "speaker": "",
+      "affiliation": "",
+      "time": "3:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-18",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "",
       "speaker": "Hong Liu",
       "affiliation": "MIT",
@@ -463,6 +551,17 @@
       "description": "",
       "date": "2026-12-02",
       "series": "Wednesday Seminar",
+      "link": ""
+    },
+    {
+      "title": "YITP Seminar Speaker: Josh Benabou",
+      "speaker": "",
+      "affiliation": "",
+      "time": "3:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-02",
+      "series": "YITP Calendar",
       "link": ""
     },
     {
