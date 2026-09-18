@@ -13,6 +13,9 @@ button { font: inherit; cursor: pointer; }
 .brand-light { font-weight: 400; }
 .monogram { display: grid; place-content: center; width: 36px; height: 36px; border-radius: 6px; background: var(--blue); color: white; font: 1.65rem/1 Georgia, serif; }
 .masthead-note, .timezone { color: var(--muted); font-size: .875rem; }
+.toolbar-links { display: flex; align-items: center; flex-wrap: wrap; justify-content: flex-end; gap: 10px 16px; }
+.calendar-link { display: inline-block; padding: 7px 12px; border: 1px solid var(--blue); border-radius: 5px; color: var(--blue); font-size: .875rem; text-decoration: none; }
+.calendar-link:hover { background: #e9f1f9; }
 main { max-width: 1056px; margin: auto; padding: 0 32px 65px; }
 .introduction { padding: 48px 0 36px; }
 .eyebrow { font-size: .875rem; color: var(--muted); margin: 0 0 10px; }
@@ -50,6 +53,7 @@ footer { max-width: 1120px; margin: auto; border-top: 1px solid var(--line); pad
   .masthead { padding: 20px; } .masthead-note { display: none; }
   main { padding: 0 20px 44px; } .introduction { padding: 32px 0 28px; }
   .toolbar { flex-direction: column; align-items: flex-start; gap: 12px; padding-bottom: 16px; }
+  .toolbar-links { justify-content: flex-start; }
   .periods { width: 100%; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); } .periods button { padding: 8px 10px; }
   .period-heading { padding: 20px 0; }
   .day { grid-template-columns: 1fr; }
