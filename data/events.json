@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-09-18T15:03:53.591083+00:00",
+  "updated_at": "2026-09-18T15:11:39.431825+00:00",
   "events": [
     {
       "title": "",
@@ -224,6 +224,28 @@
       "link": ""
     },
     {
+      "title": "Advanced Graduate Theory Seminar-Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "1:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-09-25",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Group Meeting-Shihab Fadda",
+      "speaker": "",
+      "affiliation": "",
+      "time": "12:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-09-28",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "CFTs on Squashed Spheres and the Thermal Effective Action",
       "speaker": "Nikolay Bobev",
       "affiliation": "KU Leuven",
@@ -254,6 +276,28 @@
       "description": "",
       "date": "2026-10-01",
       "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "Advanced Graduate Theory Seminar-Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "1:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-02",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Group Meeting-Shihab Fadda",
+      "speaker": "",
+      "affiliation": "",
+      "time": "12:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-05",
+      "series": "YITP Calendar",
       "link": ""
     },
     {
@@ -301,6 +345,28 @@
       "link": ""
     },
     {
+      "title": "Advanced Graduate Theory Seminar-Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "1:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-09",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Group Meeting-Shihab Fadda",
+      "speaker": "",
+      "affiliation": "",
+      "time": "12:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-12",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "Fluctuating hydrodynamics of the SYK lattice",
       "speaker": "Mark Mezei",
       "affiliation": "University of Oxford",
@@ -331,6 +397,28 @@
       "description": "",
       "date": "2026-10-15",
       "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "Advanced Graduate Theory Seminar-Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "1:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-16",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Group Meeting-Shihab Fadda",
+      "speaker": "",
+      "affiliation": "",
+      "time": "12:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-19",
+      "series": "YITP Calendar",
       "link": ""
     },
     {
@@ -378,6 +466,28 @@
       "link": ""
     },
     {
+      "title": "Advanced Graduate Theory Seminar-Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "1:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-23",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Group Meeting-Shihab Fadda",
+      "speaker": "",
+      "affiliation": "",
+      "time": "12:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-26",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "Analytic approaches to perturbations of strongly coupled Yang-Mills plasma",
       "speaker": "Ines Aniceto",
       "affiliation": "University of Southampton",
@@ -419,6 +529,28 @@
       "description": "",
       "date": "2026-10-29",
       "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "Advanced Graduate Theory Seminar-Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "1:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-30",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Group Meeting-Shihab Fadda",
+      "speaker": "",
+      "affiliation": "",
+      "time": "12:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-02",
+      "series": "YITP Calendar",
       "link": ""
     },
     {
@@ -466,6 +598,28 @@
       "link": ""
     },
     {
+      "title": "Advanced Graduate Theory Seminar-Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "1:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-06",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Group Meeting-Shihab Fadda",
+      "speaker": "",
+      "affiliation": "",
+      "time": "12:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-09",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "From Z to a: High-temperature relations, subleading semi-universality, and conformal anomalies",
       "speaker": "Nathan Benjamin",
       "affiliation": "USCLA",
@@ -496,6 +650,28 @@
       "description": "",
       "date": "2026-11-12",
       "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "Advanced Graduate Theory Seminar-Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "1:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-13",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Group Meeting-Shihab Fadda",
+      "speaker": "",
+      "affiliation": "",
+      "time": "12:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-16",
+      "series": "YITP Calendar",
       "link": ""
     },
     {
@@ -532,6 +708,28 @@
       "link": ""
     },
     {
+      "title": "Advanced Graduate Theory Seminar-Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "1:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-20",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Group Meeting-Shihab Fadda",
+      "speaker": "",
+      "affiliation": "",
+      "time": "12:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-23",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "",
       "speaker": "",
       "affiliation": "",
@@ -540,6 +738,28 @@
       "description": "",
       "date": "2026-11-26",
       "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "Advanced Graduate Theory Seminar-Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "1:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-27",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Group Meeting-Shihab Fadda",
+      "speaker": "",
+      "affiliation": "",
+      "time": "12:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-30",
+      "series": "YITP Calendar",
       "link": ""
     },
     {
@@ -576,6 +796,28 @@
       "link": ""
     },
     {
+      "title": "Advanced Graduate Theory Seminar-Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "1:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-04",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Group Meeting-Shihab Fadda",
+      "speaker": "",
+      "affiliation": "",
+      "time": "12:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-07",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "",
       "speaker": "Miguel Correira",
       "affiliation": "McGill University/ SLAC",
@@ -598,6 +840,28 @@
       "link": ""
     },
     {
+      "title": "Advanced Graduate Theory Seminar-Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "1:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-11",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Group Meeting-Shihab Fadda",
+      "speaker": "",
+      "affiliation": "",
+      "time": "12:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-14",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "",
       "speaker": "",
       "affiliation": "",
@@ -606,6 +870,28 @@
       "description": "",
       "date": "2026-12-17",
       "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "Advanced Graduate Theory Seminar-Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "1:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-18",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Group Meeting-Shihab Fadda",
+      "speaker": "",
+      "affiliation": "",
+      "time": "12:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-21",
+      "series": "YITP Calendar",
       "link": ""
     },
     {
