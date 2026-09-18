@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-09-18T13:57:48.445614+00:00",
+  "updated_at": "2026-09-18T14:54:18.453000+00:00",
   "events": [
     {
       "title": "",
@@ -158,17 +158,6 @@
       "link": ""
     },
     {
-      "title": "Bouncing Seminar",
-      "speaker": "",
-      "affiliation": "",
-      "time": "11:00 AM",
-      "location": "Common Room",
-      "description": "",
-      "date": "2026-09-18",
-      "series": "Bouncing Seminar",
-      "link": ""
-    },
-    {
       "title": "OPE = QNM",
       "speaker": "Cristoforo Iossa",
       "affiliation": "Universite de Genève",
@@ -199,17 +188,6 @@
       "description": "",
       "date": "2026-09-24",
       "series": "Journal Club",
-      "link": ""
-    },
-    {
-      "title": "Bouncing Seminar",
-      "speaker": "",
-      "affiliation": "",
-      "time": "11:00 AM",
-      "location": "Common Room",
-      "description": "",
-      "date": "2026-09-25",
-      "series": "Bouncing Seminar",
       "link": ""
     },
     {
