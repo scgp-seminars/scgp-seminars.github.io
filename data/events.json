@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-09-21T15:06:24.411679+00:00",
+  "updated_at": "2026-09-21T15:40:44.867472+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -197,7 +197,7 @@
       "affiliation": "Universite de Genève",
       "time": "11:00 AM",
       "location": "102",
-      "description": "",
+      "description": "We discuss the analytic structure of holographic thermal correlators at fixed spatial momentum. These correlators admit natural short time (OPE) and large time (QNM) expansions. We show that the two expansions agree in a common domain of convergence in the complex time plane. By comparing the two expansions near singularities in the complex time plane we give a map between OPE and QNM data, and obtain new analytic results for QNM asymptotics. We further show that the OPE spectrum is intimately related to QNM data through a set of sum rules that naturally arise in Mellin space.",
       "date": "2026-09-22",
       "series": "Thermal Seminar",
       "link": "https://arxiv.org/abs/2607.24909"
@@ -214,12 +214,12 @@
       "link": ""
     },
     {
-      "title": "",
+      "title": "A Crystal Made of Statistics",
       "speaker": "Zohar Komargodski",
       "affiliation": "SCGP",
       "time": "2:00 PM",
       "location": "SCGP Common Room",
-      "description": "",
+      "description": "We revisit the long-standing problem of the anyon gas. We study a solvable near-bosonic limit.\nIn this limit, the ground state is a crystal with order 𝑁/𝑘 lattice sites, occupied by states of 𝑘\nfundamental anyons. The statistical interactions, mediated by a long-range gauge field, are completely\nscreened within the crystalline phase.\n\nOur results indicate a quantum thermodynamic phase transition between the crystal at 𝑘 > 𝑘𝑐 and\na superfluid at 𝑘 < 𝑘𝑐. Therefore, the anyon gas with only statistical\ninteractions is not necessarily a superfluid; unlike what was commonly believed.\n\nWe will also mention the renormalization-group evolution of anyon–anyon\ninteractions, identifying many new potential fixed points and elucidating finite-size effects",
       "date": "2026-09-24",
       "series": "Journal Club",
       "link": ""
