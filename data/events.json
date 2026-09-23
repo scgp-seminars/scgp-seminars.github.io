@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-09-23T18:40:43.213700+00:00",
+  "updated_at": "2026-09-23T19:40:44.082852+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -522,12 +522,12 @@
       "link": ""
     },
     {
-      "title": "",
+      "title": "Towards Positivity Bounds for the Effective Field Theory of Inflation",
       "speaker": "Matteo Delladio",
       "affiliation": "ETH",
       "time": "2:00 PM",
       "location": "SCGP Common Room",
-      "description": "",
+      "description": "Effective field theories with nonlinearly realised Lorentz symmetry arise broadly, from cosmology to condensed matter. Whether reliable and widely applicable positivity bounds can be derived for such theories remains an open question.\n\nI will first review the obstacles faced by standard methods and discuss an alternative approach. I will then introduce an object with good analyticity properties whose high-energy behaviour can be controlled.\n\nFinally, I will explain why, despite this, the construction does not generally yield positivity bounds and discuss a possible way forward.",
       "date": "2026-10-29",
       "series": "Journal Club",
       "link": ""
