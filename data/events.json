@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-09-25T13:36:59.491391+00:00",
+  "updated_at": "2026-09-25T14:36:58.728778+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -252,7 +252,7 @@
       "affiliation": "KU Leuven",
       "time": "11:00 AM",
       "location": "102",
-      "description": "",
+      "description": "Abstract: I will discuss 3d CFTs placed on a deformed three-sphere in two complementary limits. For small deformations, the free energy of the theory can be computed using conformal perturbation theory techniques, which I will discuss in some detail. For large squashing deformations of the Hopf fiber of the three-sphere, the free energy is governed by a 2d thermal effective action, which also captures the free energy of the CFT on other Seifert manifolds. I will present explicit results for the Wilson coefficient of this effective action for free fields, the critical O(N) model, and holographic CFTs.",
       "date": "2026-09-29",
       "series": "Thermal Seminar",
       "link": "https://arxiv.org/abs/2606.30716"
