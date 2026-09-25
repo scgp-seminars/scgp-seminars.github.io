@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-09-25T12:41:43.823549+00:00",
+  "updated_at": "2026-09-25T13:30:00.561402+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -269,6 +269,17 @@
       "link": ""
     },
     {
+      "title": "N=4 super Yang-Mills in AdS4 across coupling",
+      "speaker": "Maria Nocchi",
+      "affiliation": "SCGP",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "Placing a quantum field theory in AdS offers a geometric way to tame the infrared while preserving spacetime symmetry, making it a useful laboratory for connecting gauge dynamics to flat-space scattering. I will consider N=4 super Yang-Mills theory on a fixed AdS4 background, with boundary conditions preserving 3d N=4 supersymmetry and the full SU(N) flavor symmetry. Starting from the microscopic theory, I will derive the tree-level four-point function of the boundary moment-map operators and use it as input for AdS unitarity to reconstruct the correlator at one loop. In the flat-space limit, AdS poles condense into the branch cuts of the four-dimensional gluon S-matrix, while at finite curvature AdS acts as an infrared regulator. The perturbative results also provide a starting point for following the theory across coupling. At weak coupling, the boundary theory is conformal but non-local. Its CFT data can be used as an anchor for a bootstrap toward strong coupling, where we expect the emergence of a local stress tensor, as suggested by the S-dual picture.",
+      "date": "2026-10-01",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
       "title": "Advanced Graduate Theory Seminar-Martin Rocek",
       "speaker": "",
       "affiliation": "",
@@ -324,6 +335,17 @@
       "link": ""
     },
     {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2026-10-08",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
       "title": "Advanced Graduate Theory Seminar-Martin Rocek",
       "speaker": "",
       "affiliation": "",
@@ -365,6 +387,17 @@
       "description": "",
       "date": "2026-10-14",
       "series": "Wednesday Seminar",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2026-10-15",
+      "series": "Journal Club",
       "link": ""
     },
     {
@@ -423,6 +456,17 @@
       "link": ""
     },
     {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2026-10-22",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
       "title": "Advanced Graduate Theory Seminar-Martin Rocek",
       "speaker": "",
       "affiliation": "",
@@ -475,6 +519,17 @@
       "description": "",
       "date": "2026-10-28",
       "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Towards Positivity Bounds for the Effective Field Theory of Inflation",
+      "speaker": "Matteo Delladio",
+      "affiliation": "ETH",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "Effective field theories with nonlinearly realised Lorentz symmetry arise broadly, from cosmology to condensed matter. Whether reliable and widely applicable positivity bounds can be derived for such theories remains an open question.\n\nI will first review the obstacles faced by standard methods and discuss an alternative approach. I will then introduce an object with good analyticity properties whose high-energy behaviour can be controlled.\n\nFinally, I will explain why, despite this, the construction does not generally yield positivity bounds and discuss a possible way forward.",
+      "date": "2026-10-29",
+      "series": "Journal Club",
       "link": ""
     },
     {
@@ -533,6 +588,17 @@
       "link": ""
     },
     {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2026-11-05",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
       "title": "Advanced Graduate Theory Seminar-Martin Rocek",
       "speaker": "",
       "affiliation": "",
@@ -577,6 +643,17 @@
       "link": ""
     },
     {
+      "title": "",
+      "speaker": "Theo Keseman",
+      "affiliation": "Imperial college London",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2026-11-12",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
       "title": "Advanced Graduate Theory Seminar-Martin Rocek",
       "speaker": "",
       "affiliation": "",
@@ -596,6 +673,17 @@
       "description": "",
       "date": "2026-11-16",
       "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "Saleem, Hassaan",
+      "affiliation": "SUNY, Albany",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2026-11-18",
+      "series": "Journal Club",
       "link": ""
     },
     {
@@ -643,6 +731,17 @@
       "link": ""
     },
     {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2026-11-26",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
       "title": "Advanced Graduate Theory Seminar-Martin Rocek",
       "speaker": "",
       "affiliation": "",
@@ -687,6 +786,17 @@
       "link": ""
     },
     {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2026-12-03",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
       "title": "Advanced Graduate Theory Seminar-Martin Rocek",
       "speaker": "",
       "affiliation": "",
@@ -720,6 +830,17 @@
       "link": ""
     },
     {
+      "title": "",
+      "speaker": "Gordon Rogelberg",
+      "affiliation": "Yale University",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2026-12-10",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
       "title": "Advanced Graduate Theory Seminar-Martin Rocek",
       "speaker": "",
       "affiliation": "",
@@ -742,6 +863,17 @@
       "link": ""
     },
     {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2026-12-17",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
       "title": "Advanced Graduate Theory Seminar-Martin Rocek",
       "speaker": "",
       "affiliation": "",
@@ -761,6 +893,182 @@
       "description": "",
       "date": "2026-12-21",
       "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2026-12-24",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2026-12-31",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-01-07",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-01-14",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-01-21",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-01-28",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-02-04",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-02-11",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-02-18",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-02-25",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-03-04",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-03-11",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-03-18",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-03-25",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-04-01",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-04-08",
+      "series": "Journal Club",
       "link": ""
     }
   ]
