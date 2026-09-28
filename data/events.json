@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-09-28T13:36:58.528968+00:00",
+  "updated_at": "2026-09-28T14:36:59.504393+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -258,12 +258,12 @@
       "link": "https://arxiv.org/abs/2606.30716"
     },
     {
-      "title": "",
+      "title": "PHYSICAL OPERATOR ALGEBRAS IN TTbar DEFORMATIONS OF CFTs",
       "speaker": "Massimo Porrati",
       "affiliation": "NYU",
       "time": "2:00 PM",
       "location": "313",
-      "description": "",
+      "description": "In this talk, I review a novel approach to the problem of defining physical charged operators in gauge theories. It employs an automorphism mapping the algebra of local charged operators into a (non-local) algebra of physical operators. The automorphism is described by a formally unitary intertwiner, which maps the exact BRST operator of the theory into a simpler one. I apply the method to TTbar deformations of conformal field theories (CFT) and define the cohomology of physical states. The physical fields of the TTbar theory, obtained by dressing primaries of the CFT, are explicitly found.",
       "date": "2026-09-30",
       "series": "Wednesday Seminar",
       "link": ""
@@ -313,7 +313,7 @@
       "link": "https://arxiv.org/abs/2604.12585"
     },
     {
-      "title": "",
+      "title": "PHYSICAL OPERATOR ALGEBRAS IN TTbar DEFORMATIONS OF CFTs",
       "speaker": "Andrei Katsevich",
       "affiliation": "Princeton University",
       "time": "2:00 PM",
