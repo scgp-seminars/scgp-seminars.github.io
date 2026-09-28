@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-09-28T17:36:59.707866+00:00",
+  "updated_at": "2026-09-28T18:36:58.547219+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -621,12 +621,12 @@
       "link": ""
     },
     {
-      "title": "From Z to a: High-temperature relations, subleading semi-universality, and conformal anomalies",
+      "title": "From Z to a",
       "speaker": "Nathan Benjamin",
-      "affiliation": "USCLA",
+      "affiliation": "USC",
       "time": "11:00 AM",
       "location": "102",
-      "description": "",
+      "description": "The free energy of any CFT, log Z(\\beta; \\omega_i), admits two expansions: high temperature (\\beta to 0) and fast rotation (\"semi-universal\", i.e. \\omega_i to 1). In 4d, locality of the thermal effective action implies the coefficient of \\beta^{-3+2q} in the high temperature expansion is a symmetric polynomial in \\omega_1^2 and \\omega_2^2 of degree q, which naively gives ~q^2/4 free coefficients. We show that locality additionally implies ~q^2/12 further relations on these coefficients (leaving only ~q^2/6 degrees of freedom at each order). All relations above are homogeneous, except at order \\beta^1 due to the Weyl anomaly. From this, the a-anomaly can be extracted directly from the partition function in a striking formula: a = 3/2 log Z(\\omega_1^2 = e^{2\\pi i /3}, \\omega_2^2 = e^{4\\pi i /3})_{\\beta^1} where _{\\beta^1} means we extract the \\beta^1 coefficient in the small \\beta expansion. The counting is governed by a collapse of the effective action on the rotating background to three generators. The relations resum in the fast-spinning expansion into differential equations in \\beta obeyed by the semi-universal (\\omega to 1) limit and its corrections. We verify the relations in a variety of CFTs. We generalize to any even d, but show no similar relations exist at odd d. Based on arXiv:2609.03013. Link to Poster",
       "date": "2026-11-10",
       "series": "Thermal Seminar",
       "link": "https://arxiv.org/abs/2609.03013"
