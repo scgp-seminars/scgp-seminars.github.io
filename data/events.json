@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-09-29T06:37:27.519916+00:00",
+  "updated_at": "2026-09-29T07:36:59.627037+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -247,6 +247,17 @@
       "link": ""
     },
     {
+      "title": "CFTs on Squashed Spheres and the Thermal Effective Action",
+      "speaker": "Nikolay Bobev",
+      "affiliation": "KU Leuven",
+      "time": "11:00 AM",
+      "location": "102",
+      "description": "I will discuss 3d CFTs placed on a deformed three-sphere in two complementary limits. For small deformations, the free energy of the theory can be computed using conformal perturbation theory techniques, which I will discuss in some detail. For large squashing deformations of the Hopf fiber of the three-sphere, the free energy is governed by a 2d thermal effective action, which also captures the free energy of the CFT on other Seifert manifolds. I will present explicit results for the Wilson coefficient of this effective action for free fields, the critical O(N) model, and holographic CFTs.",
+      "date": "2026-09-29",
+      "series": "Thermal Seminar",
+      "link": "https://arxiv.org/abs/2606.30716"
+    },
+    {
       "title": "PHYSICAL OPERATOR ALGEBRAS IN TTbar DEFORMATIONS OF CFTs",
       "speaker": "Massimo Porrati",
       "affiliation": "NYU",
@@ -289,6 +300,17 @@
       "date": "2026-10-05",
       "series": "YITP Calendar",
       "link": ""
+    },
+    {
+      "title": "Finite temperature correlation functions of the sine–Gordon model",
+      "speaker": "Gábor Takács",
+      "affiliation": "Budapest University",
+      "time": "11:00 AM",
+      "location": "102",
+      "description": "The sine–Gordon model serves as a foundational 1 + 1-dimensional quantum field theory with numerous applications in condensed matter physics. Despite its integrability, characterizing its finite-temperature behavior remains a significant theoretical challenge. Here we use the previously developed Method of Random Surfaces (MRS) to evaluate two-point and higher-order correlation functions. We cross-check these results with known analytical limits, demonstrating that the MRS provides reliable, non-perturbative data in intermediate regimes where traditional form-factor ex- pansions and semiclassical methods are inapplicable. Furthermore, we derive an exact result for arbitrary N -point functions satisfying an appropriate selection rule, providing a direct computa- tional method for complex multi-point observables at finite temperature. We also characterize the non-Gaussianity of correlations and demonstrate that the results align with intuitive theoretical expectations.",
+      "date": "2026-10-06",
+      "series": "Thermal Seminar",
+      "link": "https://arxiv.org/abs/2604.12585"
     },
     {
       "title": "",
@@ -346,6 +368,17 @@
       "link": ""
     },
     {
+      "title": "Fluctuating hydrodynamics of the SYK lattice",
+      "speaker": "Márk Mezei",
+      "affiliation": "University of Oxford",
+      "time": "11:00 AM",
+      "location": "102",
+      "description": "To capture universality in many-body quantum chaos, it is useful to reformulate the dynamics of solvable models in the framework of effective field theory. The SYK lattice is a spatially local generalisation of the SYK model. In the low-temperature limit the pseudo-Goldstone bosons dominate its dynamics. In a further long wavelength limit, we reorganise their action as the effective field theory for fluctuating hydrodynamics. We compute the hydrodynamic effective action to high orders in the derivative expansion, determine all the corresponding transport coefficients, and discuss its symmetries. We outline how this framework extends to the computation of OTOCs and the second Renyi entropy using a fourfold contour.",
+      "date": "2026-10-13",
+      "series": "Thermal Seminar",
+      "link": "https://arxiv.org/abs/2604.18675"
+    },
+    {
       "title": "",
       "speaker": "Ziming Ji",
       "affiliation": "Northeastern",
@@ -387,6 +420,17 @@
       "description": "",
       "date": "2026-10-19",
       "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "TBA",
+      "speaker": "Vladimir Rosenhaus",
+      "affiliation": "CUNY",
+      "time": "11:00 AM",
+      "location": "102",
+      "description": "",
+      "date": "2026-10-20",
+      "series": "Thermal Seminar",
       "link": ""
     },
     {
@@ -445,6 +489,17 @@
       "link": ""
     },
     {
+      "title": "Analytic approaches to perturbations of strongly coupled Yang-Mills plasma",
+      "speaker": "Ines Aniceto",
+      "affiliation": "University of Southampton",
+      "time": "11:00 AM",
+      "location": "102",
+      "description": "",
+      "date": "2026-10-27",
+      "series": "Thermal Seminar",
+      "link": "https://arxiv.org/abs/2606.12529"
+    },
+    {
       "title": "",
       "speaker": "Matthew Dodelson",
       "affiliation": "Harvard University",
@@ -500,6 +555,17 @@
       "link": ""
     },
     {
+      "title": "Thermal two-point functions in SYK and complex-time singularities",
+      "speaker": "Elizabeth Helfenberger",
+      "affiliation": "TCD",
+      "time": "11:00 AM",
+      "location": "102",
+      "description": "",
+      "date": "2026-11-03",
+      "series": "Thermal Seminar",
+      "link": "https://arxiv.org/abs/2607.05258"
+    },
+    {
       "title": "",
       "speaker": "Sven Harder",
       "affiliation": "",
@@ -553,6 +619,17 @@
       "date": "2026-11-09",
       "series": "YITP Calendar",
       "link": ""
+    },
+    {
+      "title": "From Z to a",
+      "speaker": "Nathan Benjamin",
+      "affiliation": "USC",
+      "time": "11:00 AM",
+      "location": "102",
+      "description": "The free energy of any CFT, log Z(\\beta; \\omega_i), admits two expansions: high temperature (\\beta to 0) and fast rotation (\"semi-universal\", i.e. \\omega_i to 1). In 4d, locality of the thermal effective action implies the coefficient of \\beta^{-3+2q} in the high temperature expansion is a symmetric polynomial in \\omega_1^2 and \\omega_2^2 of degree q, which naively gives ~q^2/4 free coefficients. We show that locality additionally implies ~q^2/12 further relations on these coefficients (leaving only ~q^2/6 degrees of freedom at each order). All relations above are homogeneous, except at order \\beta^1 due to the Weyl anomaly. From this, the a-anomaly can be extracted directly from the partition function in a striking formula: a = 3/2 log Z(\\omega_1^2 = e^{2\\pi i /3}, \\omega_2^2 = e^{4\\pi i /3})_{\\beta^1} where _{\\beta^1} means we extract the \\beta^1 coefficient in the small \\beta expansion. The counting is governed by a collapse of the effective action on the rotating background to three generators. The relations resum in the fast-spinning expansion into differential equations in \\beta obeyed by the semi-universal (\\omega to 1) limit and its corrections. We verify the relations in a variety of CFTs. We generalize to any even d, but show no similar relations exist at odd d. Based on arXiv:2609.03013. Link to Poster",
+      "date": "2026-11-10",
+      "series": "Thermal Seminar",
+      "link": "https://arxiv.org/abs/2609.03013"
     },
     {
       "title": "",
