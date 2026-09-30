@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-09-30T17:36:58.963396+00:00",
+  "updated_at": "2026-09-30T18:36:59.335213+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -346,12 +346,12 @@
       "link": ""
     },
     {
-      "title": "",
-      "speaker": "",
+      "title": "Arxiv Browsing",
+      "speaker": "Arxiv Browsing",
       "affiliation": "",
       "time": "2:00 PM",
       "location": "SCGP Common Room",
-      "description": "",
+      "description": "Arxiv Browsing",
       "date": "2026-10-08",
       "series": "Journal Club",
       "link": ""
@@ -413,8 +413,8 @@
     },
     {
       "title": "",
-      "speaker": "",
-      "affiliation": "",
+      "speaker": "Shadi Ali Ahmad",
+      "affiliation": "YITP",
       "time": "2:00 PM",
       "location": "SCGP Common Room",
       "description": "",
@@ -479,8 +479,8 @@
     },
     {
       "title": "",
-      "speaker": "",
-      "affiliation": "",
+      "speaker": "Shehab Hossam Fadda",
+      "affiliation": "NYU",
       "time": "2:00 PM",
       "location": "SCGP Common Room",
       "description": "",
