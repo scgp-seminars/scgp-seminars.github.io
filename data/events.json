@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-09-30T16:36:59.020567+00:00",
+  "updated_at": "2026-09-30T17:36:58.963396+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -375,6 +375,17 @@
       "location": "",
       "description": "",
       "date": "2026-10-12",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "C.N. Yang and Themes in Contemporary Physics",
+      "speaker": "",
+      "affiliation": "",
+      "time": "",
+      "location": "Simons Center Room 103 & 102",
+      "description": "<p>Chen-Ning Yang left an indelible impression on the development of physics that is                               as strong in the second quarter of the twenty-first century as when he retired from                               Stony Brook, twenty-seven years ago.  For this meeting, we have asked a group of physicists                               to assess the influence of these ideas today.</p><p>The symposium will focus on the status and prospects of areas where Yang's work helped                               shape our current understanding.   His contributions famously bridged gaps between                               high energy and condensed matter physics and between physics and mathematics.   We                               are looking forward to discussions of new roles for symmetries, gauge, global and                               discrete, of new ideas in particle physics, statistical mechanics and integrable systems.                                Concepts introduced by Yang inspired major themes in particle and nuclear experiments,                               in cold atom arrays, in quantum information and in machine learning.   We believe                               an event bringing together researchers in such a range of areas can lead to a useful                               exchange of ideas, which will be the most fitting tribute to Frank’s memory.</p><p>Date: October 13-14, 2026  |  Location: Simons Center Room 103 &amp; 102<br> No registration is required.  All are welcome to attend.  <br>There will be a reception on Tuesday, Oct. 13 at 5:30 pm at the SCGP Lobby. </p><p></p>",
+      "date": "2026-10-13",
       "series": "YITP Calendar",
       "link": ""
     },
