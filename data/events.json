@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-10-01T11:37:02.278439+00:00",
+  "updated_at": "2026-10-01T12:37:01.443332+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -340,7 +340,7 @@
       "affiliation": "",
       "time": "3:30 PM",
       "location": "",
-      "description": "",
+      "description": "Title: CP-Violation with Neutrino Disappearance and NuFast\n\nAbstract: The best way to probe CP violation in the lepton sector is with long-baseline accelerator neutrino experiments in the appearance mode. I will show that it is possible to discover CP violation with disappearance experiments only, by combining JUNO for electron neutrinos and DUNE or Hyper-Kamiokande for muon neutrinos. While the maximum sensitivity to discover CP is modest, \nsome values of δ may be disfavored by > 3σ depending on the true value of δ.\n\nNeutrino oscillation experiments will be entering the precision era in the next decade. Correctly estimating the confidence intervals from data for the oscillation parameters requires very large Monte Carlo data sets involving calculating the oscillation probabilities in matter many, many times. In this talk, I will leverage past work to present a new, fast, precise technique for calculating neutrino oscillation probabilities in matter optimized for long-baseline neutrino oscillations called NuFast. I will also present recent results for atmospheric and solar neutrinos.",
       "date": "2026-10-07",
       "series": "YITP Calendar",
       "link": ""
