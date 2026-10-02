@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-10-02T16:53:15.680444+00:00",
+  "updated_at": "2026-10-02T17:53:16.008083+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -324,12 +324,12 @@
       "link": ""
     },
     {
-      "title": "",
+      "title": "Ginzburg-Landau descriptions and RG flows between minimal models",
       "speaker": "Andrei Katsevich",
       "affiliation": "Princeton University",
       "time": "2:00 PM",
       "location": "313",
-      "description": "",
+      "description": "In this talk, I will review our recent conjectures for GL description of minimal models: cubic two-field PT-symmetric field theory for D series M(3,8) minimal model, N=1 SUSY exceptional (D,E) SM(12) model, and the quintic i\\phi^5 description of the tricritical Yang-Lee M(2,7) model. I will discuss how to construct these descriptions and test their identification with minimal models based on operator identifications, Operator Product Expansions, Renormalization Group flows, eps-expansions near upper critical dimensions, and integrability. Particular attention will be given to sphere free energy and finite-temperature observables, including thermal free energy, thermal masses, and one-point functions. These quantities probe different aspects of the conformal data in d=2. Together, these methods provide evidence for the proposed descriptions and a route to studying the corresponding universality classes beyond two dimensions.",
       "date": "2026-10-07",
       "series": "Wednesday Seminar",
       "link": ""
