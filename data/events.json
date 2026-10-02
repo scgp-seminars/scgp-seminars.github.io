@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-10-02T15:53:15.991092+00:00",
+  "updated_at": "2026-10-02T16:53:15.680444+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -414,7 +414,7 @@
     {
       "title": "",
       "speaker": "Shadi Ali Ahmad",
-      "affiliation": "YITP",
+      "affiliation": "NYU",
       "time": "2:00 PM",
       "location": "SCGP Common Room",
       "description": "",
@@ -480,7 +480,7 @@
     {
       "title": "",
       "speaker": "Shehab Hossam Fadda",
-      "affiliation": "NYU",
+      "affiliation": "YITP",
       "time": "2:00 PM",
       "location": "SCGP Common Room",
       "description": "",
