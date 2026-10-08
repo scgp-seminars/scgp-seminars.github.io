@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-10-08T16:27:54.267622+00:00",
+  "updated_at": "2026-10-08T17:27:53.982245+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -409,6 +409,17 @@
       "description": "",
       "date": "2026-10-15",
       "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "Seminar Speaker- Zachary Picker",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-15",
+      "series": "YITP Calendar",
       "link": ""
     },
     {
