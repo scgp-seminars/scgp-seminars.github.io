@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-10-13T19:27:53.777431+00:00",
+  "updated_at": "2026-10-13T20:27:53.830761+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -401,17 +401,6 @@
       "link": ""
     },
     {
-      "title": "",
-      "speaker": "Shadi Ali Ahmad",
-      "affiliation": "NYU",
-      "time": "2:00 PM",
-      "location": "SCGP Common Room",
-      "description": "",
-      "date": "2026-10-15",
-      "series": "Journal Club",
-      "link": ""
-    },
-    {
       "title": "Seminar Speaker- Zachary Picker Queen's University (Canada)",
       "speaker": "",
       "affiliation": "",
@@ -420,6 +409,17 @@
       "description": "",
       "date": "2026-10-15",
       "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Symmetry (breaking) from inclusions",
+      "speaker": "Shadi Ali Ahmad",
+      "affiliation": "NYU",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "The phases of a system with a grouplike symmetry are given by unbroken subgroups. What is the analog of a “smaller” symmetry when the original is non-invertible? For a (multi)fusion category, I will explain ongoing work showing that these partial symmetries are weaker than subgroups, in that they need only be stable under the coaction of the original symmetry without having an intrinsic coproduct. In the grouplike case, this distinction does not arise since the coproduct is diagonal.",
+      "date": "2026-10-15",
+      "series": "Journal Club",
       "link": ""
     },
     {
