@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-10-19T14:27:53.033730+00:00",
+  "updated_at": "2026-10-19T15:27:53.650817+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -467,12 +467,12 @@
       "link": ""
     },
     {
-      "title": "",
+      "title": "Wilsonian Conformal Perturbation Theory",
       "speaker": "Shehab Hossam Fadda",
-      "affiliation": "YITP",
+      "affiliation": "Harvard",
       "time": "2:00 PM",
       "location": "SCGP Common Room",
-      "description": "",
+      "description": "We present an all-order Wilsonian scheme for conformal perturbation theory. The perturbation theory is organized by packaging the deformation into clusters of local operators, instead of working with their expansion in a basis of local operators. Invariance of observables under variations of the Wilsonian cutoff leads to explicit RG equations for the deformation we solve perturbatively with a suitable tuning of initial conditions providing regularization. From the solutions, we extract explicit formulae for the beta function, anomalous dimensions and correlation functions, valid at any loop order. They are given in terms of finite integrals over configuration space of points, which we evaluate numerically and check our formulae up to four-loop order.",
       "date": "2026-10-22",
       "series": "Journal Club",
       "link": ""
