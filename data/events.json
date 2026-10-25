@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-10-25T18:27:53.746995+00:00",
+  "updated_at": "2026-10-25T19:27:53.121318+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -588,12 +588,12 @@
       "link": ""
     },
     {
-      "title": "",
-      "speaker": "",
-      "affiliation": "",
+      "title": "$c=1, R=1$ and $ i N >> 1$: Perturbative and Non-perturbative aspects of 2D strings and Matrix Integrals",
+      "speaker": "Rishabh Kaushik",
+      "affiliation": "ICTS",
       "time": "2:00 PM",
       "location": "SCGP Common Room",
-      "description": "",
+      "description": "Based on arXiv 2412.13397 and 2501.14023 , I will discuss aspects of the duality between the two matrix models and 2D string theory at the self-dual radius. This duality doesn't require double scaling in the matrix integral, as opposed to the usual matrix duals of non-critical string theories. We show that some particular closed string worldsheets are in one-to-one correspondence with the Feynman diagrams of this matrix model, indicating a microscopic mechanism for holography. I will also discuss the non-perturbative aspects of this duality and how the matching at the non-perturbative level can be established. Again, we see a different mechanism compared to the usual eigenvalue instantons seen in the usual matrix duals of non-critical string theories. Towards the end, I will also discuss the worldsheet calculation of these non-perturbative effects and how string field theory plays a role in obtaining finite answers that match the Matrix Integral / Quantum Mechanics predictions.",
       "date": "2026-11-05",
       "series": "Journal Club",
       "link": ""
