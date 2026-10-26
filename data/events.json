@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-10-26T13:27:53.070801+00:00",
+  "updated_at": "2026-10-26T14:27:53.949779+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -527,7 +527,7 @@
       "affiliation": "",
       "time": "3:30 PM",
       "location": "",
-      "description": "",
+      "description": "<p><span>Title: Composite Quarks and Leptons: Flavor Signatures of a Preon Theory<u></u><u></u></span></p><p><span><u></u> </span><span> </span></p><p><span>Abstract:<u></u><u></u></span></p><p><span><u></u> <u></u></span></p><p><span>We discuss a renormalizable composite/preon model in which the Standard Model quarks, leptons, and the Higgs arise as bound states of an underlying confining chiral gauge theory. Symmetries and large-N power counting naturally suppress baryon-number violation, allowing compositeness scales as low as 10^4 TeV while remaining consistent with proton-decay bounds. We focus on the flavour structure of the model, where the same Yukawa couplings that generate the observed fermion masses and quark mixing also induce a broad class of flavour- and precision-sensitive effects. This makes low-energy observables a powerful and complementary probe of compositeness, in some cases reaching beyond the usual proton-decay benchmark.</span></p><p><br></p>",
       "date": "2026-10-28",
       "series": "YITP Calendar",
       "link": ""
