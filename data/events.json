@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-10-30T11:32:15.979827+00:00",
+  "updated_at": "2026-10-30T12:32:11.792822+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -685,6 +685,17 @@
       "date": "2026-11-16",
       "series": "YITP Calendar",
       "link": ""
+    },
+    {
+      "title": "The Free Scalar as a Thermal Envelope for Three-Dimensional CFTs",
+      "speaker": "Chris Herzog",
+      "affiliation": "King's College",
+      "time": "11:00 AM",
+      "location": "Online (Zoom)",
+      "description": "Paper: https://arxiv.org/pdf/2610.33179",
+      "date": "2026-11-17",
+      "series": "Thermal Seminar",
+      "link": "https://stonybrook.zoom.us/j/92213356520?pwd=r0DTxb2iSxo23apSf7HEYeaICF9fGa.1"
     },
     {
       "title": "",
