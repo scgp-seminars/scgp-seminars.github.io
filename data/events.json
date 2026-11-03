@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-11-03T22:32:12.437265+00:00",
+  "updated_at": "2026-11-03T23:32:15.296210+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -577,12 +577,12 @@
       "link": "https://stonybrook.zoom.us/j/92213356520?pwd=r0DTxb2iSxo23apSf7HEYeaICF9fGa.1"
     },
     {
-      "title": "",
+      "title": "Understanding some extended Magnetic Defects",
       "speaker": "Sven Harder",
       "affiliation": "UCLA",
       "time": "2:00 PM",
       "location": "313",
-      "description": "",
+      "description": "Magnetic defects in quantum field theory describe phenomena ranging from the worldlines of magnetic monopoles in particle physics to magnetic flux threaded through two-dimensional materials. We discuss what symmetries and anomalies imply for magnetic line defects in three- and four-dimensional gauge theories and follow their renormalization-group flow in three-dimensional gauge theories with many flavors of matter. At the critical point we find many conformal line defects, some of which become the worldlines of anyons in the neighboring gapped phases. We compute the scaling dimensions of their endpoints, which can probe the web of dualities in three dimensions.",
       "date": "2026-11-04",
       "series": "Wednesday Seminar",
       "link": ""
