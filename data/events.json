@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-11-05T14:32:42.263070+00:00",
+  "updated_at": "2026-11-05T15:32:13.973304+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -632,6 +632,17 @@
       "link": ""
     },
     {
+      "title": "From Z to a",
+      "speaker": "Nathan Benjamin",
+      "affiliation": "USC",
+      "time": "11:00 AM",
+      "location": "Online (Zoom)",
+      "description": "Paper: https://arxiv.org/pdf/2609.03013",
+      "date": "2026-11-10",
+      "series": "Thermal Seminar",
+      "link": "https://stonybrook.zoom.us/j/92213356520?pwd=r0DTxb2iSxo23apSf7HEYeaICF9fGa.1"
+    },
+    {
       "title": "",
       "speaker": "Yu-Hsien Du",
       "affiliation": "MIT",
@@ -674,6 +685,17 @@
       "date": "2026-11-16",
       "series": "YITP Calendar",
       "link": ""
+    },
+    {
+      "title": "The Free Scalar as a Thermal Envelope for Three-Dimensional CFTs",
+      "speaker": "Chris Herzog",
+      "affiliation": "King's College",
+      "time": "11:00 AM",
+      "location": "Online (Zoom)",
+      "description": "Paper: https://arxiv.org/pdf/2610.33179",
+      "date": "2026-11-17",
+      "series": "Thermal Seminar",
+      "link": "https://stonybrook.zoom.us/j/92213356520?pwd=r0DTxb2iSxo23apSf7HEYeaICF9fGa.1"
     },
     {
       "title": "",
@@ -731,6 +753,17 @@
       "link": ""
     },
     {
+      "title": "TBA",
+      "speaker": "Silvia Pappalardi",
+      "affiliation": "Koeln University",
+      "time": "11:00 AM",
+      "location": "Online (Zoom)",
+      "description": "",
+      "date": "2026-11-25",
+      "series": "Thermal Seminar",
+      "link": "https://stonybrook.zoom.us/j/92213356520?pwd=r0DTxb2iSxo23apSf7HEYeaICF9fGa.1"
+    },
+    {
       "title": "",
       "speaker": "",
       "affiliation": "",
@@ -762,6 +795,17 @@
       "date": "2026-11-30",
       "series": "YITP Calendar",
       "link": ""
+    },
+    {
+      "title": "Can one hear the shape of a black hole singularity?",
+      "speaker": "Alexander Zhiboedov",
+      "affiliation": "CERN",
+      "time": "11:00 AM",
+      "location": "Online (Zoom)",
+      "description": "Paper: https://arxiv.org/abs/2609.07514",
+      "date": "2026-12-01",
+      "series": "Thermal Seminar",
+      "link": "https://stonybrook.zoom.us/j/92213356520?pwd=r0DTxb2iSxo23apSf7HEYeaICF9fGa.1"
     },
     {
       "title": "",
@@ -872,6 +916,17 @@
       "date": "2026-12-14",
       "series": "YITP Calendar",
       "link": ""
+    },
+    {
+      "title": "Boundaries and defects in conformal field theories at finite temperature",
+      "speaker": "Daniele Artico",
+      "affiliation": "University of Parma",
+      "time": "11:00 AM",
+      "location": "Online (Zoom)",
+      "description": "Paper: https://arxiv.org/abs/2609.38130",
+      "date": "2026-12-15",
+      "series": "Thermal Seminar",
+      "link": "https://stonybrook.zoom.us/j/92213356520?pwd=r0DTxb2iSxo23apSf7HEYeaICF9fGa.1"
     },
     {
       "title": "",
