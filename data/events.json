@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-11-06T18:32:12.303348+00:00",
+  "updated_at": "2026-11-06T19:32:12.768099+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -335,6 +335,17 @@
       "link": ""
     },
     {
+      "title": "Pheno Seminar Meetings-Jared Barron",
+      "speaker": "",
+      "affiliation": "",
+      "time": "3:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-07",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "YITP Seminar Speaker: Peter Denton (Brookhaven)",
       "speaker": "",
       "affiliation": "",
@@ -342,6 +353,28 @@
       "location": "",
       "description": "Title: CP-Violation with Neutrino Disappearance and NuFast\n\nAbstract: The best way to probe CP violation in the lepton sector is with long-baseline accelerator neutrino experiments in the appearance mode. I will show that it is possible to discover CP violation with disappearance experiments only, by combining JUNO for electron neutrinos and DUNE or Hyper-Kamiokande for muon neutrinos. While the maximum sensitivity to discover CP is modest, \nsome values of δ may be disfavored by > 3σ depending on the true value of δ.\n\nNeutrino oscillation experiments will be entering the precision era in the next decade. Correctly estimating the confidence intervals from data for the oscillation parameters requires very large Monte Carlo data sets involving calculating the oscillation probabilities in matter many, many times. In this talk, I will leverage past work to present a new, fast, precise technique for calculating neutrino oscillation probabilities in matter optimized for long-baseline neutrino oscillations called NuFast. I will also present recent results for atmospheric and solar neutrinos.",
       "date": "2026-10-07",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "String Theory-Peter vanNieuwenhuizen and Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "9:30 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-07",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Leonardo Rastelli-PHY-680-02",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-08",
       "series": "YITP Calendar",
       "link": ""
     },
@@ -357,6 +390,17 @@
       "link": ""
     },
     {
+      "title": "Tzu-Chieh-Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "4:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-08",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "Advanced Graduate Theory Seminar-Martin Rocek",
       "speaker": "",
       "affiliation": "",
@@ -368,10 +412,43 @@
       "link": ""
     },
     {
+      "title": "Rouven Essig-Pheno Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-12",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "Group Meeting-Shihab Fadda",
       "speaker": "",
       "affiliation": "",
       "time": "12:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-12",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Vivian Miranda- Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-12",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "String Theory-Peter vanNieuwenhuizen and Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "9:30 AM",
       "location": "",
       "description": "",
       "date": "2026-10-12",
@@ -390,6 +467,28 @@
       "link": ""
     },
     {
+      "title": "Leonardo Rastelli-PHY-680-02",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-13",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "HEP Group Meeting-Ahmed Almheiri-Visiting Professor",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-13",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "Quantum Field Theory in AdS",
       "speaker": "Ziming Ji",
       "affiliation": "Northeastern",
@@ -398,6 +497,39 @@
       "description": "Anti-de Sitter (AdS) space provides an infrared regulator for quantum field theory and a boundary perspective on strong dynamics. I will discuss how boundary conditions reveal mass generation and phase transitions as asymptotically free theories interpolate between weak coupling and flat space. Examples from two-dimensional models and four-dimensional $\\mathcal{N}=2$ gauge theories illustrate this perspective, including connections to Seiberg–Witten theory. I will also discuss proposals for $F_{\\mathrm{AdS}}$-maximization and an AdS $F$-theorem for boundary RG flows.",
       "date": "2026-10-14",
       "series": "Wednesday Seminar",
+      "link": ""
+    },
+    {
+      "title": "Pheno Seminar Meetings-Jared Barron",
+      "speaker": "",
+      "affiliation": "",
+      "time": "3:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-14",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "String Theory-Peter vanNieuwenhuizen and Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "9:30 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-14",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Leonardo Rastelli-PHY-680-02",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-15",
+      "series": "YITP Calendar",
       "link": ""
     },
     {
@@ -423,6 +555,17 @@
       "link": ""
     },
     {
+      "title": "Tzu-Chieh-Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "4:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-15",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "Advanced Graduate Theory Seminar-Martin Rocek",
       "speaker": "",
       "affiliation": "",
@@ -430,6 +573,17 @@
       "location": "",
       "description": "",
       "date": "2026-10-16",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Rouven Essig-Pheno Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-19",
       "series": "YITP Calendar",
       "link": ""
     },
@@ -445,6 +599,50 @@
       "link": ""
     },
     {
+      "title": "Vivian Miranda- Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-19",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "String Theory-Peter vanNieuwenhuizen and Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "9:30 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-19",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Leonardo Rastelli-PHY-680-02",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-20",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "HEP Group Meeting-Ahmed Almheiri-Visiting Professor",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-20",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "",
       "speaker": "Valentin Benedetti",
       "affiliation": "ICTP",
@@ -453,6 +651,17 @@
       "description": "",
       "date": "2026-10-21",
       "series": "Wednesday Seminar",
+      "link": ""
+    },
+    {
+      "title": "Pheno Seminar Meetings-Jared Barron",
+      "speaker": "",
+      "affiliation": "",
+      "time": "3:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-21",
+      "series": "YITP Calendar",
       "link": ""
     },
     {
@@ -467,6 +676,28 @@
       "link": ""
     },
     {
+      "title": "String Theory-Peter vanNieuwenhuizen and Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "9:30 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-21",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Leonardo Rastelli-PHY-680-02",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-22",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "Wilsonian Conformal Perturbation Theory",
       "speaker": "Shehab Hossam Fadda",
       "affiliation": "Harvard",
@@ -475,6 +706,17 @@
       "description": "We present an all-order Wilsonian scheme for conformal perturbation theory. The perturbation theory is organized by packaging the deformation into clusters of local operators, instead of working with their expansion in a basis of local operators. Invariance of observables under variations of the Wilsonian cutoff leads to explicit RG equations for the deformation we solve perturbatively with a suitable tuning of initial conditions providing regularization. From the solutions, we extract explicit formulae for the beta function, anomalous dimensions and correlation functions, valid at any loop order. They are given in terms of finite integrals over configuration space of points, which we evaluate numerically and check our formulae up to four-loop order.",
       "date": "2026-10-22",
       "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "Tzu-Chieh-Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "4:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-22",
+      "series": "YITP Calendar",
       "link": ""
     },
     {
@@ -500,6 +742,17 @@
       "link": ""
     },
     {
+      "title": "Rouven Essig-Pheno Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-26",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "Group Meeting-Shihab Fadda",
       "speaker": "",
       "affiliation": "",
@@ -507,6 +760,50 @@
       "location": "",
       "description": "",
       "date": "2026-10-26",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Vivian Miranda- Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-26",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "String Theory-Peter vanNieuwenhuizen and Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "9:30 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-26",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Leonardo Rastelli-PHY-680-02",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-27",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "HEP Group Meeting-Ahmed Almheiri-Visiting Professor",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-27",
       "series": "YITP Calendar",
       "link": ""
     },
@@ -522,6 +819,17 @@
       "link": ""
     },
     {
+      "title": "Pheno Seminar Meetings-Jared Barron",
+      "speaker": "",
+      "affiliation": "",
+      "time": "3:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-28",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "YITP Seminar Speaker: Amartya Sengupta (Buffalo)",
       "speaker": "",
       "affiliation": "",
@@ -529,6 +837,28 @@
       "location": "",
       "description": "<p><span>Title: Composite Quarks and Leptons: Flavor Signatures of a Preon Theory<u></u><u></u></span></p><p><span><u></u> </span><span> </span></p><p><span>Abstract:<u></u><u></u></span></p><p><span><u></u> <u></u></span></p><p><span>We discuss a renormalizable composite/preon model in which the Standard Model quarks, leptons, and the Higgs arise as bound states of an underlying confining chiral gauge theory. Symmetries and large-N power counting naturally suppress baryon-number violation, allowing compositeness scales as low as 10^4 TeV while remaining consistent with proton-decay bounds. We focus on the flavour structure of the model, where the same Yukawa couplings that generate the observed fermion masses and quark mixing also induce a broad class of flavour- and precision-sensitive effects. This makes low-energy observables a powerful and complementary probe of compositeness, in some cases reaching beyond the usual proton-decay benchmark.</span></p><p><br></p>",
       "date": "2026-10-28",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "String Theory-Peter vanNieuwenhuizen and Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "9:30 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-28",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Leonardo Rastelli-PHY-680-02",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-29",
       "series": "YITP Calendar",
       "link": ""
     },
@@ -544,6 +874,17 @@
       "link": ""
     },
     {
+      "title": "Tzu-Chieh-Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "4:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-10-29",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "Advanced Graduate Theory Seminar-Martin Rocek",
       "speaker": "",
       "affiliation": "",
@@ -551,6 +892,17 @@
       "location": "",
       "description": "",
       "date": "2026-10-30",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Rouven Essig-Pheno Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-02",
       "series": "YITP Calendar",
       "link": ""
     },
@@ -566,6 +918,50 @@
       "link": ""
     },
     {
+      "title": "Vivian Miranda- Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-02",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "String Theory-Peter vanNieuwenhuizen and Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "9:30 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-02",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Leonardo Rastelli-PHY-680-02",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-03",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "HEP Group Meeting-Ahmed Almheiri-Visiting Professor",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-03",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "Understanding some extended Magnetic Defects",
       "speaker": "Sven Harder",
       "affiliation": "UCLA",
@@ -577,6 +973,17 @@
       "link": ""
     },
     {
+      "title": "Pheno Seminar Meetings-Jared Barron",
+      "speaker": "",
+      "affiliation": "",
+      "time": "3:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-04",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "YITP Seminar Speaker: Tanner Trickle (Illinois)",
       "speaker": "",
       "affiliation": "",
@@ -584,6 +991,28 @@
       "location": "",
       "description": "",
       "date": "2026-11-04",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "String Theory-Peter vanNieuwenhuizen and Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "9:30 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-04",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Leonardo Rastelli-PHY-680-02",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-05",
       "series": "YITP Calendar",
       "link": ""
     },
@@ -599,6 +1028,17 @@
       "link": ""
     },
     {
+      "title": "Tzu-Chieh-Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "4:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-05",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "Advanced Graduate Theory Seminar-Martin Rocek",
       "speaker": "",
       "affiliation": "",
@@ -606,6 +1046,17 @@
       "location": "",
       "description": "",
       "date": "2026-11-06",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Rouven Essig-Pheno Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-09",
       "series": "YITP Calendar",
       "link": ""
     },
@@ -632,6 +1083,28 @@
       "link": ""
     },
     {
+      "title": "Vivian Miranda- Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-09",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "String Theory-Peter vanNieuwenhuizen and Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "9:30 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-09",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "From Z to a",
       "speaker": "Nathan Benjamin",
       "affiliation": "USC",
@@ -643,6 +1116,39 @@
       "link": "https://stonybrook.zoom.us/j/92213356520?pwd=r0DTxb2iSxo23apSf7HEYeaICF9fGa.1"
     },
     {
+      "title": "Leonardo Rastelli-PHY-680-02",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-10",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Rouven Essig-Meeting w/ colloquium speaker.",
+      "speaker": "",
+      "affiliation": "",
+      "time": "1:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-10",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "HEP Group Meeting-Ahmed Almheiri-Visiting Professor",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-10",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "",
       "speaker": "Yu-Hsien Du",
       "affiliation": "MIT",
@@ -651,6 +1157,39 @@
       "description": "",
       "date": "2026-11-11",
       "series": "Wednesday Seminar",
+      "link": ""
+    },
+    {
+      "title": "Pheno Seminar Meetings-Jared Barron",
+      "speaker": "",
+      "affiliation": "",
+      "time": "3:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-11",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "String Theory-Peter vanNieuwenhuizen and Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "9:30 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-11",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Leonardo Rastelli-PHY-680-02",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-12",
+      "series": "YITP Calendar",
       "link": ""
     },
     {
@@ -665,6 +1204,17 @@
       "link": ""
     },
     {
+      "title": "Tzu-Chieh-Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "4:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-12",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "Advanced Graduate Theory Seminar-Martin Rocek",
       "speaker": "",
       "affiliation": "",
@@ -672,6 +1222,17 @@
       "location": "",
       "description": "",
       "date": "2026-11-13",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Rouven Essig-Pheno Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-16",
       "series": "YITP Calendar",
       "link": ""
     },
@@ -687,6 +1248,39 @@
       "link": ""
     },
     {
+      "title": "Vivian Miranda- Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-16",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "String Theory-Peter vanNieuwenhuizen and Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "9:30 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-16",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Leonardo Rastelli-PHY-680-02",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-17",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "The Free Scalar as a Thermal Envelope for Three-Dimensional CFTs",
       "speaker": "Chris Herzog",
       "affiliation": "King's College",
@@ -696,6 +1290,17 @@
       "date": "2026-11-17",
       "series": "Thermal Seminar",
       "link": "https://stonybrook.zoom.us/j/92213356520?pwd=r0DTxb2iSxo23apSf7HEYeaICF9fGa.1"
+    },
+    {
+      "title": "HEP Group Meeting-Ahmed Almheiri-Visiting Professor",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-17",
+      "series": "YITP Calendar",
+      "link": ""
     },
     {
       "title": "",
@@ -709,6 +1314,17 @@
       "link": ""
     },
     {
+      "title": "Pheno Seminar Meetings-Jared Barron",
+      "speaker": "",
+      "affiliation": "",
+      "time": "3:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-18",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "YITP Seminar Speaker-Itamar Allali (University of Notre Dame)",
       "speaker": "",
       "affiliation": "",
@@ -716,6 +1332,28 @@
       "location": "",
       "description": "",
       "date": "2026-11-18",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "String Theory-Peter vanNieuwenhuizen and Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "9:30 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-18",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Leonardo Rastelli-PHY-680-02",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-19",
       "series": "YITP Calendar",
       "link": ""
     },
@@ -731,6 +1369,17 @@
       "link": ""
     },
     {
+      "title": "Tzu-Chieh-Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "4:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-19",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "Advanced Graduate Theory Seminar-Martin Rocek",
       "speaker": "",
       "affiliation": "",
@@ -738,6 +1387,17 @@
       "location": "",
       "description": "",
       "date": "2026-11-20",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Rouven Essig-Pheno Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-23",
       "series": "YITP Calendar",
       "link": ""
     },
@@ -753,6 +1413,50 @@
       "link": ""
     },
     {
+      "title": "Vivian Miranda- Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-23",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "String Theory-Peter vanNieuwenhuizen and Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "9:30 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-23",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Leonardo Rastelli-PHY-680-02",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-24",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "HEP Group Meeting-Ahmed Almheiri-Visiting Professor",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-24",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "TBA",
       "speaker": "Silvia Pappalardi",
       "affiliation": "Koeln University",
@@ -764,6 +1468,39 @@
       "link": "https://stonybrook.zoom.us/j/92213356520?pwd=r0DTxb2iSxo23apSf7HEYeaICF9fGa.1"
     },
     {
+      "title": "Pheno Seminar Meetings-Jared Barron",
+      "speaker": "",
+      "affiliation": "",
+      "time": "3:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-25",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "String Theory-Peter vanNieuwenhuizen and Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "9:30 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-25",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Leonardo Rastelli-PHY-680-02",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-26",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "",
       "speaker": "",
       "affiliation": "",
@@ -772,6 +1509,17 @@
       "description": "",
       "date": "2026-11-26",
       "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "Tzu-Chieh-Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "4:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-26",
+      "series": "YITP Calendar",
       "link": ""
     },
     {
@@ -786,10 +1534,43 @@
       "link": ""
     },
     {
+      "title": "Rouven Essig-Pheno Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-30",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "Group Meeting-Shihab Fadda",
       "speaker": "",
       "affiliation": "",
       "time": "12:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-30",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Vivian Miranda- Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-11-30",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "String Theory-Peter vanNieuwenhuizen and Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "9:30 AM",
       "location": "",
       "description": "",
       "date": "2026-11-30",
@@ -808,6 +1589,28 @@
       "link": "https://stonybrook.zoom.us/j/92213356520?pwd=r0DTxb2iSxo23apSf7HEYeaICF9fGa.1"
     },
     {
+      "title": "Leonardo Rastelli-PHY-680-02",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-01",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "HEP Group Meeting-Ahmed Almheiri-Visiting Professor",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-01",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "",
       "speaker": "Aron Wall",
       "affiliation": "",
@@ -816,6 +1619,17 @@
       "description": "",
       "date": "2026-12-02",
       "series": "Wednesday Seminar",
+      "link": ""
+    },
+    {
+      "title": "Pheno Seminar Meetings-Jared Barron",
+      "speaker": "",
+      "affiliation": "",
+      "time": "3:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-02",
+      "series": "YITP Calendar",
       "link": ""
     },
     {
@@ -830,6 +1644,28 @@
       "link": ""
     },
     {
+      "title": "String Theory-Peter vanNieuwenhuizen and Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "9:30 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-02",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Leonardo Rastelli-PHY-680-02",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-03",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "",
       "speaker": "Dalimil Mazac",
       "affiliation": "",
@@ -838,6 +1674,17 @@
       "description": "",
       "date": "2026-12-03",
       "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "Tzu-Chieh-Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "4:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-03",
+      "series": "YITP Calendar",
       "link": ""
     },
     {
@@ -863,6 +1710,17 @@
       "link": ""
     },
     {
+      "title": "Rouven Essig-Pheno Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-07",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "Group Meeting-Shihab Fadda",
       "speaker": "",
       "affiliation": "",
@@ -870,6 +1728,50 @@
       "location": "",
       "description": "",
       "date": "2026-12-07",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Vivian Miranda- Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-07",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "String Theory-Peter vanNieuwenhuizen and Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "9:30 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-07",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Leonardo Rastelli-PHY-680-02",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-08",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "HEP Group Meeting-Ahmed Almheiri-Visiting Professor",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-08",
       "series": "YITP Calendar",
       "link": ""
     },
@@ -885,6 +1787,39 @@
       "link": ""
     },
     {
+      "title": "Pheno Seminar Meetings-Jared Barron",
+      "speaker": "",
+      "affiliation": "",
+      "time": "3:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-09",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "String Theory-Peter vanNieuwenhuizen and Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "9:30 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-09",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Leonardo Rastelli-PHY-680-02",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-10",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "",
       "speaker": "Gordon Rogelberg",
       "affiliation": "Yale University",
@@ -893,6 +1828,17 @@
       "description": "",
       "date": "2026-12-10",
       "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "Tzu-Chieh-Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "4:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-10",
+      "series": "YITP Calendar",
       "link": ""
     },
     {
@@ -918,10 +1864,43 @@
       "link": ""
     },
     {
+      "title": "Rouven Essig-Pheno Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-14",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "Group Meeting-Shihab Fadda",
       "speaker": "",
       "affiliation": "",
       "time": "12:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-14",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Vivian Miranda- Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-14",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "String Theory-Peter vanNieuwenhuizen and Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "9:30 AM",
       "location": "",
       "description": "",
       "date": "2026-12-14",
@@ -940,6 +1919,50 @@
       "link": "https://stonybrook.zoom.us/j/92213356520?pwd=r0DTxb2iSxo23apSf7HEYeaICF9fGa.1"
     },
     {
+      "title": "Leonardo Rastelli-PHY-680-02",
+      "speaker": "",
+      "affiliation": "",
+      "time": "11:00 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-15",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "HEP Group Meeting-Ahmed Almheiri-Visiting Professor",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-15",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "Pheno Seminar Meetings-Jared Barron",
+      "speaker": "",
+      "affiliation": "",
+      "time": "3:30 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-16",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
+      "title": "String Theory-Peter vanNieuwenhuizen and Martin Rocek",
+      "speaker": "",
+      "affiliation": "",
+      "time": "9:30 AM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-16",
+      "series": "YITP Calendar",
+      "link": ""
+    },
+    {
       "title": "",
       "speaker": "",
       "affiliation": "",
@@ -948,6 +1971,17 @@
       "description": "",
       "date": "2026-12-17",
       "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "Tzu-Chieh-Group Meeting",
+      "speaker": "",
+      "affiliation": "",
+      "time": "4:00 PM",
+      "location": "",
+      "description": "",
+      "date": "2026-12-17",
+      "series": "YITP Calendar",
       "link": ""
     },
     {
