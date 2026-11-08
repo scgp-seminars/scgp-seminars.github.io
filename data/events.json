@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-11-08T19:32:13.410620+00:00",
+  "updated_at": "2026-11-08T20:32:13.292157+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -1765,6 +1765,17 @@
       "link": ""
     },
     {
+      "title": "Thermodynamic Bethe Ansatz for the Toda chain from inverse scattering transform",
+      "speaker": "Alberto Brollo",
+      "affiliation": "TUM",
+      "time": "11:00 AM",
+      "location": "Online (Zoom)",
+      "description": "Paper: https://arxiv.org/abs/2611.03857",
+      "date": "2026-12-08",
+      "series": "Thermal Seminar",
+      "link": "https://stonybrook.zoom.us/j/92213356520?pwd=r0DTxb2iSxo23apSf7HEYeaICF9fGa.1"
+    },
+    {
       "title": "HEP Group Meeting-Ahmed Almheiri-Visiting Professor",
       "speaker": "",
       "affiliation": "",
@@ -2060,6 +2071,17 @@
       "date": "2027-01-21",
       "series": "Journal Club",
       "link": ""
+    },
+    {
+      "title": "Hydrodynamics of perfect fluids with anomalies from the fermionic path integral",
+      "speaker": "Alexandre Abanov",
+      "affiliation": "Stony Brook Univeristy",
+      "time": "11:00 AM",
+      "location": "Online (Zoom)",
+      "description": "Paper: https://arxiv.org/pdf/2606.18779",
+      "date": "2027-01-26",
+      "series": "Thermal Seminar",
+      "link": "https://stonybrook.zoom.us/j/92213356520?pwd=r0DTxb2iSxo23apSf7HEYeaICF9fGa.1"
     },
     {
       "title": "",
