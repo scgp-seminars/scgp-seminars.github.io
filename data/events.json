@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-11-09T07:32:12.591095+00:00",
+  "updated_at": "2026-11-09T08:32:12.734947+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -2075,7 +2075,7 @@
     {
       "title": "Hydrodynamics of perfect fluids with anomalies from the fermionic path integral",
       "speaker": "Alexandre Abanov",
-      "affiliation": "Stony Brook Univeristy",
+      "affiliation": "Stony Brook University",
       "time": "11:00 AM",
       "location": "Online (Zoom)",
       "description": "Paper: https://arxiv.org/pdf/2606.18779",
