@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-11-09T17:32:13.963560+00:00",
+  "updated_at": "2026-11-09T18:32:13.915862+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -989,7 +989,7 @@
       "affiliation": "",
       "time": "3:30 PM",
       "location": "",
-      "description": "",
+      "description": "Title: \n\n    Advancing the Search for Light Dark Matter\n\nAbstract:\n    \n    Recent years have seen a dramatic expansion in ideas regarding the nature of dark matter, extending beyond the weakly-interacting massive particle (WIMP) paradigm. Many of these theories predict minuscule couplings between light (sub-GeV mass) dark matter and the Standard Model, which direct detection experiments can search for. After reviewing the status of current electron-based experiments, we will highlight the theoretical and experimental advances needed to push into uncharted dark matter territory. First, we show how fundamental condensed matter sum rules can be used to derive an upper bound on detector sensitivity using just a few key bulk material parameters, such as the plasma frequency. Next, we discuss recent advances in understanding general dark matter-electron interactions using non-relativistic effective field theory, alongside a general, relativistic, understanding of dark photon mediated scattering. Finally, we will discuss how the next generation of direct detection experiments using meV-scale excitations, such as phonons and magnons, can begin to probe the sub-MeV dark matter mass frontier.",
       "date": "2026-11-04",
       "series": "YITP Calendar",
       "link": ""
