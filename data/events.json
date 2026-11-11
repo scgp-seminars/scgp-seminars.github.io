@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-11-10T23:32:11.807590+00:00",
+  "updated_at": "2026-11-11T00:32:13.104151+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -1103,17 +1103,6 @@
       "date": "2026-11-09",
       "series": "YITP Calendar",
       "link": ""
-    },
-    {
-      "title": "From Z to a",
-      "speaker": "Nathan Benjamin",
-      "affiliation": "USC",
-      "time": "11:00 AM",
-      "location": "Online (Zoom)",
-      "description": "Paper: https://arxiv.org/pdf/2609.03013",
-      "date": "2026-11-10",
-      "series": "Thermal Seminar",
-      "link": "https://stonybrook.zoom.us/j/92213356520?pwd=r0DTxb2iSxo23apSf7HEYeaICF9fGa.1"
     },
     {
       "title": "Leonardo Rastelli-PHY-680-02",
