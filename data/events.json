@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "America/New_York",
-  "updated_at": "2026-11-22T08:32:12.030014+00:00",
+  "updated_at": "2026-11-22T09:32:10.077739+00:00",
   "calendar_url": "https://calendar.google.com/calendar/u/0/r?cid=c_a2d9943ce76d59dc4949b033e9d5084858517d477d6ebe16021be2fb65ad723e%40group.calendar.google.com",
   "events": [
     {
@@ -1204,6 +1204,17 @@
       "link": "https://stonybrook.zoom.us/j/92213356520?pwd=r0DTxb2iSxo23apSf7HEYeaICF9fGa.1"
     },
     {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2026-11-26",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
       "title": "Can one hear the shape of a black hole singularity?",
       "speaker": "Alexander Zhiboedov",
       "affiliation": "CERN",
@@ -1223,6 +1234,17 @@
       "description": "",
       "date": "2026-12-02",
       "series": "Wednesday Seminar",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "Dalimil Mazac",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2026-12-03",
+      "series": "Journal Club",
       "link": ""
     },
     {
@@ -1248,6 +1270,17 @@
       "link": ""
     },
     {
+      "title": "",
+      "speaker": "Gordon Rogelberg",
+      "affiliation": "Yale University",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2026-12-10",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
       "title": "Boundaries and defects in conformal field theories at finite temperature",
       "speaker": "Daniele Artico",
       "affiliation": "University of Parma",
@@ -1259,6 +1292,72 @@
       "link": "https://stonybrook.zoom.us/j/92213356520?pwd=r0DTxb2iSxo23apSf7HEYeaICF9fGa.1"
     },
     {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2026-12-17",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2026-12-24",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2026-12-31",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-01-07",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-01-14",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-01-21",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
       "title": "Hydrodynamics of perfect fluids with anomalies from the fermionic path integral",
       "speaker": "Alexander Abanov",
       "affiliation": "Stony Brook University",
@@ -1268,6 +1367,127 @@
       "date": "2027-01-26",
       "series": "Thermal Seminar",
       "link": "https://stonybrook.zoom.us/j/92213356520?pwd=r0DTxb2iSxo23apSf7HEYeaICF9fGa.1"
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-01-28",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-02-04",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-02-11",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-02-18",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-02-25",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-03-04",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-03-11",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-03-18",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-03-25",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-04-01",
+      "series": "Journal Club",
+      "link": ""
+    },
+    {
+      "title": "",
+      "speaker": "",
+      "affiliation": "",
+      "time": "2:00 PM",
+      "location": "SCGP Common Room",
+      "description": "",
+      "date": "2027-04-08",
+      "series": "Journal Club",
+      "link": ""
     }
   ]
 }
